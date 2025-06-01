@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/CleanHardLinkCopier/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
